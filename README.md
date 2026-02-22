@@ -71,11 +71,18 @@ I enjoy building data-driven solutions and continuously improving my technical s
 
 ## GitHub Analytics
 
-### Profile Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Jose-Aguilar-AV&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-Aguilar-AV&theme=tokyonight"/>
+</p>
 
-### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Aguilar-AV&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jose-Aguilar-AV&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Aguilar-AV&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=Jose-Aguilar-AV&theme=tokyonight&hide_border=true"/>
+</p>
 
 ### Contribution Streak
 ![Streak](https://streak-stats.demolab.com?user=Jose-Aguilar-AV&theme=tokyonight&hide_border=true)

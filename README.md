@@ -1,27 +1,27 @@
-# 👋 Hola, soy Jose Aguilar
+# Hi, I'm Jose Aguilar
 
-**Ingeniero en formación | Data Engineering & AI Enthusiast**  
-Ubicacion: Colombia  
-Interesado en: Data Engineering, Machine Learning, Backend Development  
-
----
-
-## Sobre mí
-
-- Me apasiona el análisis de datos y la ingeniería de datos
-- Enfocado en IA y Machine Learning
-- Experiencia en desarrollo backend y análisis estadístico
-- Siempre aprendiendo nuevas tecnologías
+**Systems Engineering Student | Data Engineering & AI Enthusiast**  
+Location: Bucaramanga, Colombia  
+Interested in: Data Engineering, Machine Learning, Backend Development  
 
 ---
 
-## Áreas de especialidad
+## About Me
 
-- Data Engineering
-- Machine Learning
-- Backend Development
-- Data Visualization
-- SQL & Databases
+- Passionate about data analysis and data engineering  
+- Focused on Artificial Intelligence and Machine Learning  
+- Experience in backend development and statistical analysis  
+- Always learning new technologies  
+
+---
+
+## Areas of Expertise
+
+- Data Engineering  
+- Machine Learning  
+- Backend Development  
+- Data Visualization  
+- SQL & Databases  
 
 ---
 
@@ -50,11 +50,11 @@ Interesado en: Data Engineering, Machine Learning, Backend Development
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Jose-Aguilar-AV&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Aguilar-AV&layout=compact&theme=tokyonight)
 
 ---
 
@@ -64,4 +64,4 @@ Interesado en: Data Engineering, Machine Learning, Backend Development
 
 ---
 
-*Siempre abierto a colaborar en proyectos de Data Engineering y AI*
+*Always open to collaborating on Data Engineering and AI projects*
